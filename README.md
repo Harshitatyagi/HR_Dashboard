@@ -4,3 +4,4 @@ Data Set Used : https://docs.google.com/spreadsheets/d/11uZHcPDOUkmJD1FzLpqghGuQ
 
 ANALSIS -->
 
+![HR_Dashboard](https://github.com/user-attachments/assets/3e330495-2409-4eef-8e99-771c61990b3b)
